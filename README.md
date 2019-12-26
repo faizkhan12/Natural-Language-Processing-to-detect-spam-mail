@@ -19,3 +19,7 @@ TF-IDF stands for *term frequency-inverse document frequency*, and the tf-idf we
 3. Weight the counts,frequesnt tokens will have lower weight(Inverse Document Frequesny)
 4. Normalize the vectors to Unit Length, to abstract from the original text length(12 norm)
 5. After all text data converted to numerical, we need to split or train-test data to get an accuracy
+
+# Result 
+
+![Alt text](result.png?raw=true "predicted values" )
